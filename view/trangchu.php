@@ -2,17 +2,17 @@
   <div class="slideshow-container">
     <div class="mySlides fade">
 
-      <img src="https://bizweb.dktcdn.net/100/443/045/themes/844966/assets/slider_2.jpg?1695197142389" class="w-[100%] h-[100%]">
+      <img src="https://cdn.honda.com.vn/home-banner/October2023/rCP20C5AyXC88fpWdHrA.jpg" class="w-[100%] h-[100%]">
 
     </div>
     <div class="mySlides fade">
 
-      <img src="https://giaxevinfastvinhphuc.com/wp-content/uploads/2021/04/banner-x.jpg" class="w-[100%] h-[100%]">
+      <img src="https://cdn.honda.com.vn/home-banner/September2023/Yds8g6p5UdXGX5rme5wj.jpg" class="w-[100%] h-[100%]">
 
     </div>
     <div class="mySlides fade">
 
-      <img src="https://cdnimg.vietnamplus.vn/uploaded/hotnnz/2020_05_31/bannertop.jpg" class="w-[100%] h-[100%]">
+      <img src="https://cdn.honda.com.vn/home-banner/September2023/oO2KLB4d20aekge2Rq8o.jpg" class="w-[100%] h-[100%]">
 
     </div>
     <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -25,8 +25,7 @@
 
 <!-- top 10 sản phẩm yêu thích -->
 <article class="content mx-auto">
-  <h1 class="product_sale py-[20px] mt-[20px] text-[blue] pl-[25px] text-center font-bold text-[50px]">Top 10 sản phẩm ưu
-    thích</h1>
+
 
   <div class="">
     <div class="w-full relative flex items-center justify-center gap-10 ">

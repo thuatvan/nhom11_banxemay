@@ -2,7 +2,7 @@
 $host = "localhost";
 $userhost ="root"; 
 $passhost = '';
-$dbname ="duanbanxemay";
+$dbname ="nhom11banxemay";
 
 
   function pdo_get_connection(){

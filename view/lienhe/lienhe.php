@@ -2,17 +2,17 @@
   <div class="slideshow-container">
     <div class="mySlides fade">
 
-      <img src="https://bizweb.dktcdn.net/100/443/045/themes/844966/assets/slider_2.jpg?1695197142389" class="w-[100%] h-[100%]">
+      <img src="https://cdn.honda.com.vn/home-banner/October2023/rCP20C5AyXC88fpWdHrA.jpg" class="w-[100%] h-[100%]">
 
     </div>
     <div class="mySlides fade">
 
-      <img src="https://bizweb.dktcdn.net/100/443/045/themes/844966/assets/slider_2.jpg?1695197142389" class="w-[100%] h-[100%]">
+      <img src="https://cdn.honda.com.vn/home-banner/September2023/Yds8g6p5UdXGX5rme5wj.jpg" class="w-[100%] h-[100%]">
 
     </div>
     <div class="mySlides fade">
 
-      <img src="https://bizweb.dktcdn.net/100/443/045/themes/844966/assets/slider_2.jpg?1695197142389" class="w-[100%] h-[100%]">
+      <img src="https://cdn.honda.com.vn/home-banner/September2023/oO2KLB4d20aekge2Rq8o.jpg" class="w-[100%] h-[100%]">
 
     </div>
     <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -38,9 +38,9 @@
 								<i class="fas fa-map-marker-alt"></i>
 							</div>
 							<div class="content-r">
-								Địa chỉ:
+								Địa chỉ:Thành Phố Phúc Yên, Tỉnh Vĩnh Phúc, Việt Nam
 								<p>
-									CS1: 145 Bạch Mai quận Hai Bà Trưng, HN
+									
 								</p>
 							</div>
 						</div>
@@ -51,7 +51,7 @@
 							<div class="content-r">
 								Địa chỉ:
 								<p>
-									CS2: 444 Khương Đình, quận Thanh Xuân, HN
+								288 Phạm Bạch Hổ, P. Nguyễn Trãi, Hưng Yên, Việt Nam
 								</p>
 							</div>
 						</div>
@@ -61,7 +61,7 @@
 							</div>
 							<div class="content-r">
 								Gửi thắc mắc:
-								<a href="mailto:xedapdienlananh@gmail.com">xedapdienlananh@gmail.com</a>
+								<a href="mailto: cr@honda.com.vn"> cr@honda.com.vn</a>
 							</div>
 						</div>
 						<div class="item-contact">
@@ -70,7 +70,7 @@
 							</div>
 							<div class="content-r">
 								Điện thoại:
-								<a class="fone" href="tel:0985571111">0985571111</a> 
+								<a class="fone" href="Hotline: 1800 8001">Hotline: 1800 8001</a> 
 							</div>
 						</div>
 					</div>
@@ -78,7 +78,7 @@
 				</div>
 			</div>
 			
-							<iframe class="text-center" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.6678112216796!2d105.84914031424495!3d21.005948993934116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ad3e02debc13%3A0x18aa4b704048704e!2zWEUgxJBJ4buGTiwgWEUgTcOBWSA1MENDIExBTiBBTkg!5e0!3m2!1sen!2s!4v1652417014314!5m2!1sen!2s" width="100%" height="450" style="border:0;text-align:center;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+							<iframe class="text-center" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119365.82543380781!2d106.00157246722912!3d20.783921828412335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135bc3e03cc1545%3A0x60d2c71ee08e22b9!2zSG9uxJFhIMSQ4bqhaSDEkG_DoG4!5e0!3m2!1svi!2s!4v1697912947480!5m2!1svi!2s" width="100%" height="450" style="border:0;text-align:center;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 				
 
 		</div>

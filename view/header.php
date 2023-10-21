@@ -66,7 +66,7 @@
 <body>
   <header>
     <div class="flex justify-between h-[90px] leading-[90px]">
-      <a href="index.php"><img src="https://bizweb.dktcdn.net/100/443/045/themes/844966/assets/logo.png?1695197142389" alt="" class="w-[150px] h-[90px] object-contain "></a>
+      <a href="index.php"><img src="https://www.honda.com.vn/images/logo.svg" alt="" class="w-[150px] h-[90px] object-contain "></a>
       <nav class="">
         <ul id="menu"
           class="flex md:gap-[35px] hidden  fixed top-0 left-0 flex flex-col justify-center items-center bg-[blue]  w-full h-screen md:bg-transparent md:relative md:h-auto md:flex-row  md:flex z-50">
