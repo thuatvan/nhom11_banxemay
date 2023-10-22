@@ -1,7 +1,7 @@
 <div class="flex items-center justify-center bg-gray-100">
   <div class="px-8 py-6 mx-4 mt-4 text-left bg-white shadow-lg md:w-1/3 lg:w-1/3 sm:w-1/3">
     <div class="flex justify-center">
-      <img src="https://bizweb.dktcdn.net/100/443/045/themes/844966/assets/logo.png?1695197142389" alt="" class="w-[100px]">
+      <img src="https://www.honda.com.vn/images/logo.svg" alt="" class="w-[100px]">
     </div>
     <h3 class="text-2xl font-bold text-center mt-[10px]">Đăng Nhập</h3>
 
